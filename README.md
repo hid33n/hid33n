@@ -1,4 +1,4 @@
-### 👋 ¡Bienvenido a mi GitHub!
+### 👋 ¡Bienvenido!
 
 Soy un desarrollador full-stack de 🇦🇷 Argentina, creando proyectos que mezclan juegos, sistemas web y automatización.  
 Trabajo con tecnologías modernas como **Flutter**, **Firebase**, **Node.js**, **MariaDB**, **React**, y más.
@@ -25,8 +25,8 @@ Trabajo con tecnologías modernas como **Flutter**, **Firebase**, **Node.js**, *
 
 ### 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight&hide=prs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hid33n&show_icons=true&theme=tokyonight&hide=prs)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hid33n&layout=compact&theme=tokyonight)
 
 ---
 
