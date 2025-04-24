@@ -30,7 +30,5 @@ Trabajo con tecnologías modernas como **Flutter**, **Firebase**, **Node.js**, *
 
 ---
 
-### ☕ ¿Charlamos?
-
 Siempre estoy creando, aprendiendo o compartiendo ideas.  
 Si te gusta lo que ves, ¡seguime o escribime! 🚀
